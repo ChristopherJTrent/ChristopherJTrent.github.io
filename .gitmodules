@@ -1,0 +1,3 @@
+[submodule "assets/js/lib/Nyzul"]
+	path = assets/js/lib/Nyzul
+	url = https://github.com/ChristopherJTrent/Nyzul
